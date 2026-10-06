@@ -11,6 +11,8 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Persistent-purple?style=flat-square)
 
 ---
+## Live Preview
+https://subjectguide-questionbankassistant.streamlit.app/
 
 ## 🌟 Features
 
