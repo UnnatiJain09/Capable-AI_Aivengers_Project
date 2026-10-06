@@ -14,6 +14,12 @@
 ## Live Preview
 https://subjectguide-questionbankassistant.streamlit.app/
 
+## Screenshots
+<img width="959" height="468" alt="Screenshot 2026-10-06 221642" src="https://github.com/user-attachments/assets/a383fcf6-77af-4f05-915e-1d865360c378" />
+<img width="956" height="433" alt="Screenshot 2026-10-06 221708" src="https://github.com/user-attachments/assets/94948480-43be-449e-a644-ee9b880fec66" />
+<img width="952" height="455" alt="Screenshot 2026-10-06 221856" src="https://github.com/user-attachments/assets/3f22a34b-2ae2-43de-b3aa-2ee4f590dd61" />
+
+
 ## 🌟 Features
 
 | Feature | Description |
